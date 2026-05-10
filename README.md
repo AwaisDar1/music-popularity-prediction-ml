@@ -4,6 +4,7 @@
 This project explores how audio features, metadata, and social engagement indicators influence music popularity using machine learning models and interpretable AI techniques.
 
 ## Technologies Used
+- Spotify Web API
 - Python
 - Pandas
 - NumPy
@@ -14,6 +15,7 @@ This project explores how audio features, metadata, and social engagement indica
 - Jupyter Notebook
 
 ## Features
+- Spotify API integration for retrieving popularity scores
 - Data preprocessing and cleaning
 - Multimodal feature analysis
 - Music popularity prediction
